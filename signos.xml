@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Áries é o primeiro signo do zodíaco.</descricao>
+    </signo>
+    <!-- Adicione os outros signos aqui -->
+</signos>
